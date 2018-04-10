@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.353,C:\Users\user\Documents\RAD Studio\Projects\Project1PCH1.h=C:\Users\user\Desktop\ГА\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.578,=C:\Users\user\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.994,=C:\Users\user\Desktop\ГА\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.706,C:\Users\user\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\user\Desktop\ГА\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.725,C:\Users\user\Desktop\ГА\Unit2.cpp=C:\Users\user\Desktop\ГА\MyThread.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.595,=C:\Users\user\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.725,C:\Users\user\Desktop\ГА\Unit2.h=C:\Users\user\Desktop\ГА\MyThread.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.420,C:\Users\user\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\user\Desktop\ГА\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.420,C:\Users\user\Documents\RAD Studio\Projects\Unit1.h=C:\Users\user\Desktop\ГА\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.420,C:\Users\user\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\user\Desktop\ГА\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
